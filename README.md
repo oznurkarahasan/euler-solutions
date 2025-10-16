@@ -1,2 +1,3 @@
 # euler-solutions
- euler solutions with c
+
+euler solutions
